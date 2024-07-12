@@ -6,4 +6,8 @@ Example: MNIST data modeling using CNN
 https://posit.cloud/content/8413469
 Example: IMDB data modeling using LSTM
 https://posit.cloud/content/8410988
+
+For GRU, refer to this reference
+https://tensorflow.rstudio.com/guides/keras/working_with_rnns
+
 Part Three
